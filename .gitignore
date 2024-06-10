@@ -1,5 +1,6 @@
 venv/
+plots/
 
-lab_3/plots
-
-lab_4/plots
+*.png
+*.jpg
+*.jpeg
